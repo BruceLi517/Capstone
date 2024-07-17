@@ -1,5 +1,6 @@
 ## Hi there 👋
 This is the first repository that I created to build my portfolio on Github.
+
  🔭 I’m currently a Business Analytics student at UC, pursuing my master's degree.
  
 <!--
