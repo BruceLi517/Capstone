@@ -1,5 +1,7 @@
 ## Hi there 👋
 This is the first repository that I created to build my portfolio on Github.
+ 🔭 I’m currently a Business Analytics student at UC, pursuing my master's degree.
+ 
 <!--
 **BruceLi517/BruceLi517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
