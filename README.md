@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is the first repository that I created to build my portfolio on Github.
 
- 🔭 I’m currently a Business Analytics student at UC, pursuing my master's degree.
+ 🔭 I graduated from the University of Cincinnati with a master's degree in Business Analytics in Dec. 2024.
  
  Here is my [Tableau dashboard](https://public.tableau.com/app/profile/bruceli517)
  
